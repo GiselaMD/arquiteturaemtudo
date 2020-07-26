@@ -9,7 +9,7 @@ import "./pages.css"
 const IndexPage = ({ data }) => {
   return (
     <div>
-      <SEO title="Ladybug Podcast" />
+      <SEO title="Arquitetura em Tudo Podcast" />
       <HomeHeader latestEpisode={data.allMarkdownRemark.edges[0]} />
       <main className="home-main">
         <h2>Recent Episodes</h2>

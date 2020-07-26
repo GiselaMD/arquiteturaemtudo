@@ -71,25 +71,11 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/brand/ladybug@2x.png`, // This path is relative to the root of the site.
+        icon: `src/images/brand/favicon.png`,
       },
     },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: path.join(__dirname, `src`, `images/books`),
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: path.join(__dirname, `src`, `images/team`),
-      },
-    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

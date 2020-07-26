@@ -13,7 +13,7 @@ export const kellyBio = {
         up a strong customer base over the past 15 years and grew her solo
         freelance business from a team of one to an always-profitable team of
         ten in just one year.`,
-    `When she's not coding or co-hosting the Ladybug Podcast, you can find
+    `When she's not coding or co-hosting the Arquitetura em Tudo Podcast, you can find
         her launching new products on her own developer merch Shopify store, traveling the world with her husband, and sampling all the wine and
         whiskey she can get her hands on.`,
   ],
