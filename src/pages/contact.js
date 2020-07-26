@@ -17,8 +17,8 @@ const ContactPage = () => (
       <p>
         Fique a vontade para nos enviar um feedback ou para tirar quaisquer
         dúvidas! Mande um e-mail para{" "}
-        <a href="mailto:contato@arquiteturaemtudo.com">
-          contato@arquiteturaemtudo.com
+        <a href="mailto:arquiteturaemtudo.podcast@gmail.com">
+          arquiteturaemtudo.podcast@gmail.com
         </a>
       </p>
     </main>

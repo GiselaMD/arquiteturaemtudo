@@ -46,20 +46,20 @@ const Footer = () => {
       </section>
       <div className="footer-links">
         <Link to="/contact">Nos Patrocine</Link>
-        {/* <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSc0IBTZA1Acv9a05VQAjtSgv-M8GRtGq7yDXSKL_vYKGcBlTw/viewform"
+        <a
+          href="https://forms.gle/TfoYqTJC8TN5rJQRA"
           target="_blank"
           rel="noopener noreferrer"
         >
           Indique um convidado
         </a>
         <a
-          href="https://forms.gle/UDVfz2cu73UyGhieA"
+          href="https://forms.gle/uR7K3i7YpRrnYeZU8"
           target="_blank"
           rel="noopener noreferrer"
         >
           Peça um episódio
-        </a> */}
+        </a>
       </div>
       <p className="footer-copyright">
         {`© Arquitetura em Tudo Podcast ${currentYear}. Produzido por Gisela Miranda Difini.`}
