@@ -4,8 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Arquitetura em Tudo website
+  Arquitetura em Tudo - Gatsby
 </h1>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c442e9a2-b784-45cf-b63d-aab632956932/deploy-status)](https://app.netlify.com/sites/arquiteturaemtudo/deploys)
 
 O Arquitetura em Tudo é um podcast que busca garimpar na vida real os mais variados assuntos relacionados a arte de fazer ou sentir a Arquitetura.
 
