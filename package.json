@@ -1,0 +1,58 @@
+{
+  "name": "arquitetura-em-tudo-podcast",
+  "private": true,
+  "description": "O Arquitetura em Tudo é um podcast que busca garimpar na vida real os mais variados assuntos relacionados a arte de fazer ou sentir a Arquitetura.",
+  "version": "0.1.0",
+  "author": "Gisela Miranda Difini",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.7",
+    "@mdx-js/react": "^1.5.7",
+    "gatsby": "^2.19.49",
+    "gatsby-cli": "^2.12.66",
+    "gatsby-image": "^2.2.34",
+    "gatsby-plugin-feed": "^2.5.11",
+    "gatsby-plugin-google-analytics": "^2.1.38",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-manifest": "^2.2.31",
+    "gatsby-plugin-mdx": "^1.0.84",
+    "gatsby-plugin-react-helmet": "^3.1.16",
+    "gatsby-plugin-sharp": "^2.3.10",
+    "gatsby-remark-copy-linked-files": "^2.1.33",
+    "gatsby-remark-images": "^3.1.39",
+    "gatsby-remark-prismjs": "^3.3.28",
+    "gatsby-remark-relative-images": "^0.2.3",
+    "gatsby-remark-responsive-iframe": "^2.2.30",
+    "gatsby-remark-smartypants": "^2.1.19",
+    "gatsby-source-filesystem": "^2.1.40",
+    "gatsby-transformer-remark": "^2.6.45",
+    "gatsby-transformer-sharp": "^2.3.9",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "react-spring": "^8.0.27"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "rm -rf .cache",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
