@@ -1,10 +1,7 @@
 import React from "react"
-import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import PageHeader from "../components/PageHeader"
-import TeamMemberBlock from "../components/TeamMemberBlock"
 import Footer from "../components/Footer"
-import { kellyBio, emmaBio, aliBio } from "../data/bios"
 import "./pages.css"
 
 const AboutPage = ({ data }) => (
@@ -16,7 +13,7 @@ const AboutPage = ({ data }) => (
       <div className="page-banner">
         <h1>About Us</h1>
       </div>
-      <TeamMemberBlock
+      {/* <TeamMemberBlock
         name={kellyBio.name}
         title={kellyBio.title}
         location={kellyBio.location}
@@ -39,36 +36,36 @@ const AboutPage = ({ data }) => (
         bio={aliBio.bio}
         image={data.ali.childImageSharp.fixed}
         links={aliBio.links}
-      />
+      /> */}
     </main>
     <Footer />
   </div>
 )
 
-export const Photos = graphql`
-  {
-    kelly: file(relativePath: { eq: "team/kelly.jpg" }) {
-      childImageSharp {
-        fixed(width: 200) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
-    emma: file(relativePath: { eq: "team/emma.jpg" }) {
-      childImageSharp {
-        fixed(width: 200) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
-    ali: file(relativePath: { eq: "team/ali.jpg" }) {
-      childImageSharp {
-        fixed(width: 200) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
-  }
-`
+// export const Photos = graphql`
+//   {
+//     kelly: file(relativePath: { eq: "team/kelly.jpg" }) {
+//       childImageSharp {
+//         fixed(width: 200) {
+//           ...GatsbyImageSharpFixed
+//         }
+//       }
+//     }
+//     emma: file(relativePath: { eq: "team/emma.jpg" }) {
+//       childImageSharp {
+//         fixed(width: 200) {
+//           ...GatsbyImageSharpFixed
+//         }
+//       }
+//     }
+//     ali: file(relativePath: { eq: "team/ali.jpg" }) {
+//       childImageSharp {
+//         fixed(width: 200) {
+//           ...GatsbyImageSharpFixed
+//         }
+//       }
+//     }
+//   }
+// `
 
 export default AboutPage
