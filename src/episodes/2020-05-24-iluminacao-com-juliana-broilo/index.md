@@ -20,4 +20,4 @@ Pós graduada em iluminação. Participou das principais feiras e eventos intern
 Empresária na área de iluminação, com a pioneira loja Broilo Iluminação que esteve no mercado por 38 anos em Gramado e Porto Alegre. Atuou na area de projetos e atendimento ao cliente e arquitetos.
 Atualmente, migrou para o mercado gourmet, e hoje está em São Paulo com uma empresa especializada em produtos especiais das mais diversas regiões brasileiras.
 
-Quem quiser conhecer mais, acesse: [@julianabroilo](www.instagram.com/julianabroilo/) e [@santhogourmet](www.instagram.com/santhogourmet/)
+Quem quiser conhecer mais, acesse: www.instagram.com/julianabroilo/ e www.instagram.com/santhogourmet/

@@ -17,7 +17,7 @@ id: "2ff4FeTLS9jz4Ldor4I9sW"
 O Arquitetura em Tudo é um podcast quinzenal que busca garimpar na vida real os mais variados assuntos relacionados a arte de fazer ou sentir a Arquitetura.
 
 Neste episódio falamos sobre as várias formas de representação do desenho digital. Renderização e 3D.
-[Uncanny valley](pt.wikipedia.org/wiki/Vale_da_estranheza)
-Renderizações disponíveis nos seguintes sites: [analore.com.br](www.analore.com.br/) e [thomasschulermiller](thomasschulermiller.com/)
+Uncanny valley: pt.wikipedia.org/wiki/Vale_da_estranheza
+Renderizações disponíveis nos seguintes sites: www.analore.com.br/ e thomasschulermiller.com/
 
 Convidado: Thomas Schuler Miller

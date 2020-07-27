@@ -17,4 +17,4 @@ Qualidade na Obra é uma mini série de podcasts que visa entrevistar todos os p
 
 Convidados: Leonardo Borges, Yuri Piacheski e Rafael Prestes.
 
-Leonardo é fundador da empresa [Tel Instalações elétricas](www.facebook.com/TelInstalacoesEletrica). Yuri é sócio na empresa [Sigfrild soluções em hidráulica e gás](www.facebook.com/sigfrild.rolante.rs) [@sigfrild](www.instagram.com/sigfrild/). Rafael é profissional especializado em [revestimentos com porcelanato e pedra](www.facebook.com/rafael.prestes.98).
+Leonardo é fundador da empresa Tel Instalações elétricas www.facebook.com/TelInstalacoesEletrica. Yuri é sócio na empresa Sigfrild soluções em hidráulica e gás www.facebook.com/sigfrild.rolante.rs www.instagram.com/sigfrild/. Rafael é profissional especializado em revestimentos com porcelanato e pedra www.facebook.com/rafael.prestes.98.

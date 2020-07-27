@@ -22,10 +22,9 @@ export default function Template({ data }) {
     title: title,
     description: description,
   }
-
   return (
     <div>
-      <SEO episodeInfo={episodeInfo} />
+      <SEO episodeInfo={episodeInfo} title={title} />
       <PageHeader />
       <main>
         <Player path={path} id={id} isEpisodeHeader={true} />

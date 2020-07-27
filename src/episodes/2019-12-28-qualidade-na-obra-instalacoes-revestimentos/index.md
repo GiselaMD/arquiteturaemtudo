@@ -18,5 +18,5 @@ Qualidade na Obra é uma mini série de podcasts que visa entrevistar todos os p
 
 Convidados: Katia Lorenzi e Fernando Huppers.
 
-Katia é vendedora externa na empresa [Marmoraria Igrejinha LTDA](www.facebook.com/marmorariaigrejinha).
-Fernando é proprietário da empresa [Hupp Marcenaria Decor](www.facebook.com/HUPP-Marcenaria-…-256261541604585).
+Katia é vendedora externa na empresa Marmoraria Igrejinha LTDA www.facebook.com/marmorariaigrejinha
+Fernando é proprietário da empresa Hupp Marcenaria Decor www.facebook.com/HUPP-Marcenaria-…-256261541604585

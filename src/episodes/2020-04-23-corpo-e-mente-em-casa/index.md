@@ -21,7 +21,7 @@ Beatriz Regina Neves é psicóloga, com formação em psicanálise pela Sigmund 
 
 Leticia Macedo Winkler Moraes é fisioterapeuta graduada pelo Centro Universitário Metodista IPA. Possui pós-graduação pela UFRGS em Cinesiologia e também consta com uma certificação internacional em pilates pela Polestar / Physiopilates. É mentora dos cursos de formação em pilates Polestar / Physiopilates desde 2018.
 
-Quem quiser conhecer mais sobre as convidadas, acesse: [@ginapsic](www.instagram.com/ginapsic) e [@winklermoraes](www.instagram.com/winklermoraes)
+Quem quiser conhecer mais sobre as convidadas, acesse: www.instagram.com/ginapsic e www.instagram.com/winklermoraes
 
 Citações: "A arte existe para que a realidade não nos destrua" - Friedrich Nietzsche
 A Poética do Espaço de Gaston Bachelard
