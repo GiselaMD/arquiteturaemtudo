@@ -99,6 +99,7 @@ li {
 .page-flex-vertical {
   display: flex;
   flex-direction: column;
+  max-width: 600px;
   padding: 40px;
   border-radius: 12px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
