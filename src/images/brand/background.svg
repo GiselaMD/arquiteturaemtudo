@@ -15,9 +15,9 @@
                 <g id="Group-13">
                     <rect id="Rectangle" fill="#291464" style="mix-blend-mode: hard-light;" x="0" y="0" width="1024" height="512"></rect>
                     <polygon id="Rectangle" fill-opacity="0.8" fill="url(#linearGradient-1)" points="410 0 1024 512 0 512"></polygon>
-                    <circle id="Oval-Copy-2" fill-opacity="0.6" fill="#3C2829" style="mix-blend-mode: hard-light;" cx="762" cy="508" r="31"></circle>
-                    <circle id="Oval" fill-opacity="0.3" fill="#3C2829" style="mix-blend-mode: hard-light;" cx="63" cy="201" r="16"></circle>
-                    <circle id="Oval-Copy-3" fill-opacity="0.8" fill="#3C2829" style="mix-blend-mode: hard-light;" cx="968" cy="144" r="21"></circle>
+                    <circle id="Oval-Copy-2" fill-opacity="0.6" fill="#ffb500" style="mix-blend-mode: hard-light;" cx="762" cy="508" r="31"></circle>
+                    <circle id="Oval" fill-opacity="0.3" fill="#ffb500" style="mix-blend-mode: hard-light;" cx="63" cy="201" r="16"></circle>
+                    <circle id="Oval-Copy-3" fill-opacity="0.8" fill="#ffb500" style="mix-blend-mode: hard-light;" cx="968" cy="144" r="21"></circle>
                 </g>
             </g>
         </g>
