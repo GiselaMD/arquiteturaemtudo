@@ -15,6 +15,6 @@ id: "4yTSnoRvl7voERUZ6FTEfW"
 
 Neste episódio falamos sobre o que é planejamento estratégico e como ele pode ajudar na Arquitetura.
 
-Para mais informações sobre planejamento estratégico, acesse: www.scopi.com.br
+Para mais informações sobre planejamento estratégico, acesse: (scopi.com.br)[https://www.scopi.com.br/]
 
 Convidado: Marcos Kayser

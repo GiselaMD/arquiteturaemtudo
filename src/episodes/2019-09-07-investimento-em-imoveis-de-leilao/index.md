@@ -14,6 +14,6 @@ id: "5iWXYnqwcgqidsK2G9FANm"
 
 Neste episódio falamos sobre investimento em imóveis de leilão e como as parcerias (com os arquitetos) podem ajudar neste processo.
 
-Para mais informações sobre esses investimentos, acesse: schaaninvestimentosimobiliarios.com/
+Para mais informações sobre esses investimentos, acesse: [schaaninvestimentosimobiliarios.com](http://schaaninvestimentosimobiliarios.com/)
 
 Convidada: Gaysita Schaan Ribeiro

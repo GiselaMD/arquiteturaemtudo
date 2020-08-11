@@ -15,7 +15,7 @@ id: "4o8mn8iZzhGJ6HhWkAI8FG"
 
 Neste episódio falamos sobre a Marcenaria Conectada e o que se espera do mercado da marcenaria para a era digital!
 
-Para mais informações sobre a Interiore Marcenaria, acesse: www.interiore.com.br
-www.cenaria.com.br
+Para mais informações sobre a Interiore Marcenaria, acesse: [interiore.com.br](http://www.interiore.com.br/)
+[cenaria.com.br](https://cenaria.com.br/)
 
 Convidados: Arquitetos Flavio Goulart de Oliveira e Daisy Maria Araújo da Silva

@@ -1,9 +1,11 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+
 import SEO from "../components/seo"
 import HomeHeader from "../components/HomeHeader"
 import EpisodeBlock from "../components/EpisodeBlock"
 import Footer from "../components/Footer"
+
 import "./pages.css"
 
 const IndexPage = ({ data }) => {

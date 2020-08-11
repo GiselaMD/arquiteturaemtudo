@@ -21,5 +21,4 @@ Ao longo dos anos, formou cartela de clientes, fez cursos de educação continua
 Atual presidente da AAI, foi presidente, vice e diretora em gestões anteriores; foi diretora do Saergs e membro do Conselho Estadual do IAB; foi conselheira federal e primeira vice presidente mulher do CAU/BR.
 Acredita que a Arquitetura e Urbanismo vai muito além da prática profissional no escritório, no ofício permanente, e sempre atuou institucionalmente pela defesa da profissão em várias representações.
 
-Para saber mais sobre a AAI Brasil acesse [aaibrasilrs.com.br](www.aaibrasilrs.com.br).
-Novo site oficial do podcast: www.arquiteturaemtudo.com
+Para saber mais sobre a AAI Brasil acesse [aaibrasilrs.com.br](http://www.aaibrasilrs.com.br/).

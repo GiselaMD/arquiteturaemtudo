@@ -44,8 +44,8 @@ module.exports = {
           {
             resolve: "gatsby-remark-external-links",
             options: {
-              target: "_self",
-              rel: "nofollow",
+              target: "_black",
+              rel: "noopener noreferer",
             },
           },
           {
@@ -88,20 +88,6 @@ module.exports = {
       options: {
         // The property ID; the tracking code won't be generated without it
         trackingId: "UA-173562496-1",
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-external-links",
-            options: {
-              target: "_blank",
-              rel: "noopener noreferrer",
-            },
-          },
-        ],
       },
     },
   ],

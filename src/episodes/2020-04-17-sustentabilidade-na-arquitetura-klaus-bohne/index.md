@@ -16,5 +16,5 @@ Neste episódio falamos sobre Sustentabilidade na Arquitetura.
 
 Convidado: Arquiteto e Urbanista Klaus Bohne
 
-Para mais informações sobre a Tria Sistemas de Arquitetura, acesse: tria.com.br/
-www.instagram.com/triasistemasdearquitetura/
+Para mais informações sobre a Tria Sistemas de Arquitetura, acesse: [tria.com.br](http://tria.com.br/),
+[@triasistemasdearquitetura](https://www.instagram.com/triasistemasdearquitetura/)
