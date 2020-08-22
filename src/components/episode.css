@@ -51,6 +51,12 @@
   text-transform: uppercase;
 }
 
+.title-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
 .episode-description {
   max-width: 580px;
 }
@@ -114,6 +120,10 @@ progress::-moz-progress-bar {
 @media (max-width: 500px) {
   .episode {
     margin-top: 16px;
+  }
+
+  .episode iframe {
+    width: 100%;
   }
 
   .episode-info {

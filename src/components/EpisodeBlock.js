@@ -15,11 +15,13 @@ const EpisodeBlock = ({ episodeInfo }) => {
     <div className="page-flex-vertical banner-margin">
       <div style={{ display: "flex" }}>
         <div>
-          <h2 className="episode-title">{title}</h2>
+          <div className="title-wrapper">
+            <h2 className="episode-title">{title}</h2>
+            <p className="episode-length">{length}</p>
+          </div>
           <p className="episode-date">{`${episode} | ${formattedDate}`}</p>
           <p>{description}</p>
         </div>
-        <p className="episode-length">{length}</p>
       </div>
       <Link to={path}>
         <button className="button button-border">Ouvir</button>

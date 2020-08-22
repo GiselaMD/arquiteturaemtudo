@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import spotify from "../images/footer/spotify.svg"
-import rss from "../images/footer/rss.svg"
+import soundcloud from "../images/footer/soundcloud.svg"
 import itunes from "../images/footer/itunes.svg"
 import "./footer.css"
 
@@ -40,7 +40,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={rss} alt="RSS Feed" />
+            <img src={soundcloud} alt="SoundCloud" />
           </a>
         </address>
       </section>
@@ -62,7 +62,10 @@ const Footer = () => {
         </a>
       </div>
       <p className="footer-copyright">
-        {`© Arquitetura em Tudo Podcast ${currentYear}. Produzido por Gisela Miranda Difini.`}
+        {`© Arquitetura em Tudo Podcast ${currentYear}. Produzido por`}{" "}
+        <a href="http://giselamirandadifini.com/" target="_blank">
+          Gisela Miranda Difini.
+        </a>
       </p>
     </footer>
   )

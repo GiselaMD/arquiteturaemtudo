@@ -72,6 +72,7 @@
   .header-full {
     height: 650px;
     box-sizing: border-box;
+    padding: 12px;
   }
 
   .nav {
@@ -90,7 +91,8 @@
   }
 
   .header-full {
-    height: 1000px;
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
   }
 
   .header.page-header {

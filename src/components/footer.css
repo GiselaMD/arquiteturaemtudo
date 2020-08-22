@@ -23,6 +23,10 @@
   margin-right: 16px;
 }
 
+.footer-icons > a > img {
+  width: 48px;
+}
+
 .footer-links {
   text-transform: uppercase;
   width: 100%;
@@ -33,10 +37,13 @@
 }
 
 .footer-links > a {
-  text-decoration: none;
-  color: #353535;
+  color: #291464;
   margin-right: 16px;
   margin-bottom: 16px;
+}
+
+.footer-links > a:hover {
+  color: #ff2d98;
 }
 
 .footer-copyright {
