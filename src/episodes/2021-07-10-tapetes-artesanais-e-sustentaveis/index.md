@@ -29,4 +29,4 @@ Revendedor Porto Alegre e Novo Hamburgo: https://manjabosco.com.br/
 
 Este episódio é patrocinado por LAM Gesso: http://www.lamgesso.com.br/
 
-A empresa LAM é de Estância Velha - RS e possui o mais novo conceito em acabamentos no trabalho com gesso acartonado, divisórias leves e pisos. Atual em toda a região metropolitana, Vale do Sinos, Vale do Paranhana, Serra e Litoral do Rio Grande do Sul.
+A empresa LAM é de Estância Velha - RS e possui o mais novo conceito em acabamentos no trabalho com gesso acartonado, divisórias leves e pisos. Atua em toda a região metropolitana, Vale do Sinos, Vale do Paranhana, Serra e Litoral do Rio Grande do Sul.
