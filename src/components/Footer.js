@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import spotify from "../images/footer/spotify.svg"
-import soundcloud from "../images/footer/soundcloud.svg"
 import itunes from "../images/footer/itunes.svg"
 import "./footer.css"
 
@@ -34,13 +33,6 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             <img src={itunes} alt="Apple Podcasts" />
-          </a>
-          <a
-            href="https://soundcloud.com/arquitetura-em-tudo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={soundcloud} alt="SoundCloud" />
           </a>
         </address>
       </section>

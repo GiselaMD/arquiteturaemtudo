@@ -12,7 +12,7 @@ h2,
 h3 {
   position: relative;
   margin-bottom: 24px;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 
 p {
@@ -282,4 +282,8 @@ li {
   p img {
     background: rgba(255, 255, 255, 0.3);
   }
+}
+
+.markdown_content .gatsby-resp-image-wrapper {
+  width: 50%;
 }

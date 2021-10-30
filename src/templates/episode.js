@@ -33,6 +33,7 @@ export default function Template({ data }) {
           <button className="button button-border">Voltar aos episódios</button>
         </Link>
         <p
+          className="markdown_content"
           dangerouslySetInnerHTML={{
             __html: html,
           }}
