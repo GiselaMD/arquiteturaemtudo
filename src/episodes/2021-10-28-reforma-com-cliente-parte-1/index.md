@@ -27,6 +27,8 @@ Neste papo, o cliente fala sobre o seu ponto de vista sobre todo o processo do p
 
 ![Escada cliente](/images/escada_2.jpeg)
 
+![Lambreta](/images/lambreta.jpg)
+
 ## Foto do Cliente
 
 ![Foto do cliente José Carlos Sauer](/images/cliente.jpeg)
