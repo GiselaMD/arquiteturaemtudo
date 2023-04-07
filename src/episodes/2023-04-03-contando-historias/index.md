@@ -3,10 +3,10 @@ title: "Contando Histórias com Vitor Bertini"
 formattedDate: "03 de Abril de 2023"
 date: "2023-04-03"
 path: "/contando-historias"
-description: "Vitor Bertini é escritor, palestrante e storyteller: "A arte e o poder de contar histórias". 
+description: "Vitor Bertini é escritor, palestrante e storyteller: A arte e o poder de contar histórias. 
 
 Vitor tem muito a nos ensinar para conduzir o briefing inicial com os nossos clientes."
-episode: 'EP 23'
+episode: "EP 23"
 length: "01:48:05"
 id: "0PxlWFyr20OYxkVxbV79Y0"
 ---
