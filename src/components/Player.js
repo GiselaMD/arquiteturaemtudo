@@ -92,12 +92,12 @@ const Player = ({
       className={isEpisodeHeader ? "episode  episode-page-header" : "episode"}
     >
       <iframe
-        src={`https://open.spotify.com/embed-podcast/episode/${id}`}
+        src={`https://open.spotify.com/embed/episode/${id}`}
         width="60%"
         height="232"
         frameborder="0"
         allowtransparency="true"
-        allow="encrypted-media"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       ></iframe>
       {/* <div className="episode-info">
         <button
