@@ -31,10 +31,12 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
-    "react-spring": "^8.0.27"
+    "react-spring": "^8.0.27",
+    "sharp": "^0.25.4"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "xml2js": "^0.6.2"
   },
   "keywords": [
     "gatsby"
@@ -47,6 +49,8 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
+    "sync": "node scripts/sync-episodes.js",
+    "sync:dry": "node scripts/sync-episodes.js --dry-run",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
